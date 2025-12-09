@@ -1,0 +1,5 @@
+Apple is a fruit rich in vitamins.
+Apple Inc. designs iPhones and MacBooks.
+Bananas are yellow and sweet.
+Semantic search finds meaning beyond keywords.
+RAG combines retrieval with generation for better answers.
